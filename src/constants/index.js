@@ -211,7 +211,7 @@ const projects = [
     webpage_link: '',
   },
   {
-    name: "Trip Guide",
+    name: "Landing page",
     description:
       "A landing page made by design and all wishes of the customer. The landing page is full responsive and has working form check validation",
     tags: [
